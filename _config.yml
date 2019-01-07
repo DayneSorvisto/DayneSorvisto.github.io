@@ -17,18 +17,18 @@ baseurl: ""
 Data Science Notes 
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Jekyll based micro blog for data science notes
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Blog"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Machine Learning: "index.html"
+    - Big Data: "http://www.markdowntutorial.com/"
+    - Cloud Services: "https://pages.github.com/"
+  Author's home: "http://github.com/daynesorvisto"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
