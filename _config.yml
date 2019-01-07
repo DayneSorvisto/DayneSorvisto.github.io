@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-Data Science Notes 
+title: Data Science Notes 
 
 # Short description of your site
 description: Jekyll based micro blog for data science notes
